@@ -1,11 +1,11 @@
 Summary:	GNU Line Editor
 Name:		ed
-Version:	1.7
+Version:	1.8
 Release:	1
 License:	GPL
 Group:		Applications/Editors
 Source0:	ftp://ftp.gnu.org/pub/gnu/ed/%{name}-%{version}.tar.gz
-# Source0-md5:	0aa4e2428e325203d0d7c3e86c961b1c
+# Source0-md5:	2268d2344b3c52d23730acb2e3c942fe
 URL:		http://www.gnu.org/software/ed/
 BuildRequires:	autoconf
 BuildRequires:	texinfo
